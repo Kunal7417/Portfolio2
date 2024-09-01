@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/?size=100&id=13679&format=png&color=000000"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/?size=100&id=12599&format=png&color=000000"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
+    },
+    {
+        "name": "AngularJS",
+        "icon": "https://img.icons8.com/?size=100&id=71257&format=png&color=000000"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/?size=100&id=84710&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/?size=100&id=40669&format=png&color=000000"
+    },
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000"
+    },
+    {
+        "name": "GitLab",
+        "icon": "https://img.icons8.com/?size=100&id=34886&format=png&color=000000"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/?size=100&id=22813&format=png&color=000000"
+    },
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/?size=100&id=39292&format=png&color=000000"
+    },
+    {
+        "name": "Spring",
+        "icon": "https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png&color=000000"
+    }    
+]
