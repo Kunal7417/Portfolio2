@@ -70,8 +70,8 @@ header {
   justify-content: space-between;
   padding: 1.7rem 10%;
   height: 6.5rem;
-  background-color: #fff;
-  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
+  background-color: #faf2f2;
+  box-shadow: 0 1px 4px rgba(1, 17, 33, 0.3);
 }
 section {
   min-height: 100vh;
@@ -84,7 +84,7 @@ section {
   text-align: center;
 }
 .heading span {
-  color: rgb(115, 3, 167);
+  color: rgb(215, 193, 226);
 }
 header .logo {
   font-size: 1.9rem;
@@ -96,7 +96,7 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #fc8c05;
+  color: #f34713;
 }
 header .navbar ul {
   list-style: none;
